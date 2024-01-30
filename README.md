@@ -1,2 +1,23 @@
-# App_Flutter_Llista_de_tarefas
- Aplicativo feito em flutter de lista de tarefas
+# LISTA DE TAREFAS
+
+O APLICATIVO LISTA DE TAREFAS FOI FEITO USANDO O FRAMEWORK FLUTTER. O APLICATIVO FOI CRIADO COM A FINALIDADE DE ESTUDO, SERVE PARA O USUÁRIO DEFINIR TAREFAS E ASSIM QUE FINALIZAR, MARCAR COMO CONCLUÍDA.
+
+1. CLIQUE NO BOTÃO + PARA ADICIONAR UMA NOVA TAREFA
+2. NO POP-UP DIGITE O NOME DA TAREFA
+3. APÓS FINALIZAR, MARQUE COMO CONCLUÍDA 
+4. SE DESEJAR EXCLUIR A TAREFA É SÓ ARRASTAR A MESMA PARA O LADO ESQUERDO.
+## CAPTURAS DE TELA
+
+![App Screenshot](https://uploaddeimagens.com.br/images/004/726/349/original/WhatsApp_Image_2024-01-29_at_23.16.19.jpeg?1706581024)
+
+![App Screenshot](https://uploaddeimagens.com.br/images/004/726/350/full/WhatsApp_Image_2024-01-29_at_23.16.19_%281%29.jpeg?1706581070)
+
+![App Screenshot](https://uploaddeimagens.com.br/images/004/726/351/full/WhatsApp_Image_2024-01-29_at_23.16.19_%282%29.jpeg?1706581131)
+
+
+![App Screenshot](https://uploaddeimagens.com.br/images/004/726/352/full/WhatsApp_Image_2024-01-29_at_23.16.20.jpeg?1706581166)
+
+
+
+
+
